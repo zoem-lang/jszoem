@@ -1,0 +1,24 @@
+{
+  "name": "jszoem",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "JavaScript implementation of zoem.",
+  "scripts": {
+    "start": "node index.js",
+    "build": "rollup -c",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoem-lang/jszoem.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/zoem-lang/jszoem/issues"
+  },
+  "homepage": "https://github.com/zoem-lang/jszoem#readme",
+  "devDependencies": {
+    "rollup": "^2.66.1"
+  }
+}
