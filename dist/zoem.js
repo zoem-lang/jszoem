@@ -1083,4 +1083,4 @@ function parse(code) {
   return statements;
 }
 
-export { Environment, Interpreter, Parser, Tokenizer, formatZoemError, parse, run };
+// export { Environment, Interpreter, Parser, Tokenizer, formatZoemError, parse, run };
